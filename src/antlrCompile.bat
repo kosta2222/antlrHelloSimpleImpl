@@ -1,0 +1,1 @@
+start cmd /K "C:\Program Files\Java\jre1.8.0_77\bin\java.exe" -jar   antlr-4.2.2-complete.jar -no-listener -visitor  -o out Hello.g4
